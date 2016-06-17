@@ -2,4 +2,4 @@
 
 # Demo
 
-[**Blog**](http://baransomakli.com/demo/softgridfw/)
+[**Blog**](http://baransomakli.com/demo/softgrid-example/blog/)
